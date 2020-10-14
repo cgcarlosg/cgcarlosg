@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Smart people are never too busy!](https://github.com/cgcarlosg/cgcarlosg/blob/main/worksmarter.jpg)
+![Smart people are never too busy!](https://github.com/cgcarlosg/cgcarlosg/blob/main/worksmarter.jpg)
 
 <!--
 **cgcarlosg/cgcarlosg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
