@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-![Smart people are never too busy!](https://github.com/cgcarlosg/cgcarlosg/blob/main/worksmarter.jpg)
+![Smart people are never too busy!](https://github.com/cgcarlosg/cgcarlosg/blob/main/worksmarter.jpg) Smart people are never too busy!!: I am convinced that the world belongs to tireless and intelligent workers who like to think and be practical in their lives
+
+- 🌱 I’m currently learning at Microverse program and it every day is great!
+- 👯  I’m looking to collaborate with companies that want to change the world!
+
 
 <!--
 **cgcarlosg/cgcarlosg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
