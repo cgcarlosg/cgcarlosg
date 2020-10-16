@@ -4,7 +4,7 @@ Smart people are never too busy!!: I am convinced that the world belongs to tire
 
 ![Smart people are never too busy!](https://github.com/cgcarlosg/cgcarlosg/blob/main/worksmarter.jpg) 
 
-- 🌱 I’m currently learning at Microverse program and it every day is great!
+- 🌱 I’m currently learning at Microverse program and every day is great!
 - 👯  I’m looking to collaborate with companies that want to change the world!
 
 
