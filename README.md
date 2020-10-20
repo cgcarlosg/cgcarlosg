@@ -9,6 +9,8 @@ Smart people are never too busy!!: I am convinced that the world belongs to tire
 
 [![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=cgcarlosg)](https://github.com/cgcarlosg/github-readme-stats)
 ![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=cgcarlosg&show_icons=true)
+![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=cgcarlosg&show_icons=true&theme=radical)
+
 
 
 <!--
