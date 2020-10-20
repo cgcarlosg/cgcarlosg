@@ -7,6 +7,8 @@ Smart people are never too busy!!: I am convinced that the world belongs to tire
 - 🌱 I’m currently learning at Microverse program and every day is great!
 - 👯  I’m looking to collaborate with companies that want to change the world!
 
+[![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=cgcarlosg)](https://github.com/cgcarlosg/github-readme-stats)
+
 
 <!--
 **cgcarlosg/cgcarlosg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
