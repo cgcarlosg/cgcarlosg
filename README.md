@@ -8,6 +8,7 @@ Smart people are never too busy!!: I am convinced that the world belongs to tire
 - 👯  I’m looking to collaborate with companies that want to change the world!
 
 [![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=cgcarlosg)](https://github.com/cgcarlosg/github-readme-stats)
+![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=cgcarlosg&show_icons=true)
 
 
 <!--
