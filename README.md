@@ -90,7 +90,7 @@
 </details>
 
 
-***<p align="center"Currently Available for Professional Oportunities</p>***
+***<p align="center">Currently Available for Professional Oportunities</p>***
 <p align="center">
   <a href="https://github.com/cgcarlosg"></a>
   <a href="https://www.linkedin.com/in/carlosalbeniogutierrez"></a>
