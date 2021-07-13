@@ -22,7 +22,7 @@
    - Movies
    - Go to the pool with my family
    
-  **I am currently**
+  **I am currently 🔭**
    - Working with Javascript
    - Reviewing Ruby on Rails
    - Learning ReactJS
@@ -33,7 +33,7 @@
 <br>
 
 <details>
-  <summary><strong>Some things I am trying to be better at</strong></summary>
+  <summary><strong>Some things I am trying to be better at 🌱</strong></summary>
   <br>
 
   - Mastering JavaScript
@@ -53,6 +53,7 @@
   - Spanish
   - English
 
+  <br>
   <br>
 
   <p><strong>Front-end Languages</strong></p>
@@ -86,9 +87,10 @@
  - React and Redux
  - Bootstrap
   
-
+ <br>
+ <br>
+          
 </details>
-
 
 ***<p align="center">Currently Available for Professional Oportunities</p>***
 <p align="center">
@@ -98,13 +100,14 @@
   <a href="mailto:cgcarlosg@hotmail.com">MAIL</a>
   
 </p>
+
 <!--
 **cgcarlosg/cgcarlosg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-  I’m currently working on ...
+- I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
