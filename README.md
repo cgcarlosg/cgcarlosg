@@ -65,17 +65,17 @@
   
   <p><strong>Backend-end Languages</strong></p>
   
- - Ruby
- - MYSQL
- - NodeJs
+  - Ruby
+  - MYSQL
+  - NodeJs
   
   <br>
   <br>
   
   <p><strong>Tools</strong></p>
- - Git
- - GitHub
- - VSCode
+  - Git
+  - GitHub
+  - VSCode
    
   <br>
   <br>
@@ -92,10 +92,10 @@
 
 ***<p align="center">Currently Available for Professional Oportunities</p>***
 <p align="center">
-  <a href="https://github.com/cgcarlosg"></a>
-  <a href="https://www.linkedin.com/in/carlosalbeniogutierrez"></a>
-  <a href="https://twitter.com/cgcarlosg1"></a>
-  <a href="mailto:cgcarlosg@hotmail.com"></a>
+  <a href="https://github.com/cgcarlosg">GITHUB</a>
+  <a href="https://www.linkedin.com/in/carlosalbeniogutierrez">LINKEDIN</a>
+  <a href="https://twitter.com/cgcarlosg1">TWITER</a>
+  <a href="mailto:cgcarlosg@hotmail.com">MAIL</a>
   
 </p>
 <!--
