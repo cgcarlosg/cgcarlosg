@@ -94,7 +94,7 @@
 
 ***<p align="center">Currently Available for Professional Oportunities</p>***
 <p align="center">
-  <a href="https://github.com/cgcarlosg">GITHUB</a>
+  <a href="https://www.linkedin.com/in/carlosalbeniogutierrez/?locale=en_US">GITHUB</a>
   <a href="https://www.linkedin.com/in/carlosalbeniogutierrez">LINKEDIN</a>
   <a href="https://twitter.com/cgcarlosg1">TWITER</a>
   <a href="mailto:cgcarlosg@hotmail.com">MAIL</a>
