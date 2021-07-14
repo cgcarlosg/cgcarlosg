@@ -7,7 +7,7 @@
 ![Smart people are never too busy!](https://github.com/cgcarlosg/cgcarlosg/blob/main/worksmarter.jpg) 
 
 - 🌱 I’m currently learning at Microverse program and every day is great!
-- 👯  I’m looking to collaborate with companies that want to change the world!
+- 👯  I’m looking for companies that want to change the world!
 
 ![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=cgcarlosg&show_icons=true)
 ![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=cgcarlosg&show_icons=true&theme=radical)
