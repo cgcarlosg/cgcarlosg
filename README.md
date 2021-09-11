@@ -15,7 +15,7 @@
 <details>
   <summary><strong>More About Me</strong></summary>
   <br>
-   I am <b>43 years old</b>. I'm finishing the microverse program. I have had an interest in coding since a couple of years ago, but never really focused on learning to code until now</p>
+   I am <b>43 years old</b>. I'm working in my first role as Web UI developer. I have had an interest in coding since a couple of years ago, but never really focused on learning to code until 2020. This 2021 I got the opportunity to show my skills. </p>
    
  
    **Hobbies** 
