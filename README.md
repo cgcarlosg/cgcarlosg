@@ -91,7 +91,7 @@ Improving skills in: Application architecture, web performance, and user experie
   
  - Ruby on Rails
  - React and Redux
- - Bootstrap
+ - Tailwind, Material UI, SASS
   
  <br>
  <br>
