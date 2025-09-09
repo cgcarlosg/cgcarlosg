@@ -15,7 +15,15 @@
 <details>
   <summary><strong>More About Me</strong></summary>
   <br>
-   I am <b>43 years old</b>. I'm working in my first role as Web UI developer. I have had an interest in coding since a couple of years ago, but never really focused on learning to code until 2020. This 2021 I got the opportunity to show my skills. </p>
+   <b>Frontend Developer with 4 Years of React Expertise</b>
+
+A web developer with 4 years of experience building dynamic and responsive user interfaces with ReactJS. My focus is on creating scalable and efficient web products using modern tools from the frontend ecosystem.
+
+Currently:
+
+Working with: JavaScript (ES6+), ReactJS, HTML5, CSS3, Typescript.
+
+Improving skills in: Application architecture, web performance, and user experience.
    
  
    **Hobbies** 
@@ -23,9 +31,7 @@
    - Go to the pool with my family
    
   **I am currently 🔭**
-   - Working with Javascript
-   - Reviewing Ruby on Rails
-   - Learning ReactJS
+   - Working with React and Typescript apps
    
 </details>
 
